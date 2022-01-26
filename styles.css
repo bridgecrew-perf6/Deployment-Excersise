@@ -1,0 +1,46 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  padding: 40px;
+  text-align: center;
+  font-size: 36px;
+}
+
+p {
+  margin-top: 5%;
+  text-align: center;
+}
+
+#first-img {
+  height: 250px;
+  width: 300px;
+  margin-top: 5%;
+  margin-left: 10%;
+  border: 5px solid black;
+}
+
+#second-img {
+  height: 250px;
+  width: 300px;
+  margin-top: 5%;
+  margin-left: 10%;
+  border: 5px solid black;
+}
+
+#buy-oreos {
+  margin-left: 16%;
+  font-size: larger;
+  background-color: black;
+  color: white;
+}
+
+#buy-milk {
+  margin-left: 23.5%;
+  font-size: larger;
+  background-color: black;
+  color: white;
+}
